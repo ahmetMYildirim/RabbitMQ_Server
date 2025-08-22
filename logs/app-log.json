@@ -1,0 +1,85 @@
+[
+{"instant":{"epochSecond":1755758109,"nanoOfSecond":743531200},"thread":"JavaFX Application Thread","level":"INFO","loggerName":"org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec","message":"Recoverable I/O exception (org.apache.hc.core5.http.NoHttpResponseException) caught when processing request to {}->http://localhost:5671","endOfBatch":false,"loggerFqcn":"org.apache.logging.slf4j.Log4jLogger","threadId":32,"threadPriority":5}
+{"instant":{"epochSecond":1755758109,"nanoOfSecond":743531200},"thread":"Thread-4","level":"INFO","loggerName":"org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec","message":"Recoverable I/O exception (org.apache.hc.core5.http.NoHttpResponseException) caught when processing request to {}->http://localhost:5671","endOfBatch":false,"loggerFqcn":"org.apache.logging.slf4j.Log4jLogger","threadId":57,"threadPriority":5}
+
+]
+
+]
+
+]
+{"instant":{"epochSecond":1755765215,"nanoOfSecond":490493000},"thread":"JavaFX Application Thread","level":"INFO","loggerName":"org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec","message":"Recoverable I/O exception (org.apache.hc.core5.http.NoHttpResponseException) caught when processing request to {}->http://localhost:5671","endOfBatch":false,"loggerFqcn":"org.apache.logging.slf4j.Log4jLogger","threadId":32,"threadPriority":5}
+, {"instant":{"epochSecond":1755765218,"nanoOfSecond":859193400},"thread":"JavaFX Application Thread","level":"INFO","loggerName":"org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec","message":"Recoverable I/O exception (org.apache.hc.core5.http.NoHttpResponseException) caught when processing request to {}->http://localhost:5671","endOfBatch":false,"loggerFqcn":"org.apache.logging.slf4j.Log4jLogger","threadId":32,"threadPriority":5}
+, {"instant":{"epochSecond":1755765218,"nanoOfSecond":859193400},"thread":"Thread-4","level":"INFO","loggerName":"org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec","message":"Recoverable I/O exception (org.apache.hc.core5.http.NoHttpResponseException) caught when processing request to {}->http://localhost:5671","endOfBatch":false,"loggerFqcn":"org.apache.logging.slf4j.Log4jLogger","threadId":57,"threadPriority":5}
+
+]
+{"instant":{"epochSecond":1755765455,"nanoOfSecond":41675700},"thread":"JavaFX Application Thread","level":"INFO","loggerName":"org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec","message":"Recoverable I/O exception (org.apache.hc.core5.http.NoHttpResponseException) caught when processing request to {}->http://localhost:5671","endOfBatch":false,"loggerFqcn":"org.apache.logging.slf4j.Log4jLogger","threadId":32,"threadPriority":5}
+, {"instant":{"epochSecond":1755765459,"nanoOfSecond":508174900},"thread":"Thread-4","level":"INFO","loggerName":"org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec","message":"Recoverable I/O exception (org.apache.hc.core5.http.NoHttpResponseException) caught when processing request to {}->http://localhost:5671","endOfBatch":false,"loggerFqcn":"org.apache.logging.slf4j.Log4jLogger","threadId":57,"threadPriority":5}
+, {"instant":{"epochSecond":1755765459,"nanoOfSecond":508174900},"thread":"JavaFX Application Thread","level":"INFO","loggerName":"org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec","message":"Recoverable I/O exception (org.apache.hc.core5.http.NoHttpResponseException) caught when processing request to {}->http://localhost:5671","endOfBatch":false,"loggerFqcn":"org.apache.logging.slf4j.Log4jLogger","threadId":32,"threadPriority":5}
+
+]
+{"instant":{"epochSecond":1755765765,"nanoOfSecond":976802400},"thread":"JavaFX Application Thread","level":"INFO","loggerName":"org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec","message":"Recoverable I/O exception (org.apache.hc.core5.http.NoHttpResponseException) caught when processing request to {}->http://localhost:5671","endOfBatch":false,"loggerFqcn":"org.apache.logging.slf4j.Log4jLogger","threadId":32,"threadPriority":5}
+, {"instant":{"epochSecond":1755770244,"nanoOfSecond":145234100},"thread":"JavaFX Application Thread","level":"INFO","loggerName":"org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec","message":"Recoverable I/O exception (org.apache.hc.core5.http.NoHttpResponseException) caught when processing request to {}->http://localhost:5671","endOfBatch":false,"loggerFqcn":"org.apache.logging.slf4j.Log4jLogger","threadId":32,"threadPriority":5}
+, {"instant":{"epochSecond":1755770244,"nanoOfSecond":145234100},"thread":"Thread-7","level":"INFO","loggerName":"org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec","message":"Recoverable I/O exception (org.apache.hc.core5.http.NoHttpResponseException) caught when processing request to {}->http://localhost:5671","endOfBatch":false,"loggerFqcn":"org.apache.logging.slf4j.Log4jLogger","threadId":60,"threadPriority":5}
+
+]
+{"instant":{"epochSecond":1755770729,"nanoOfSecond":666927800},"thread":"JavaFX Application Thread","level":"INFO","loggerName":"org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec","message":"Recoverable I/O exception (org.apache.hc.core5.http.NoHttpResponseException) caught when processing request to {}->http://localhost:5671","endOfBatch":false,"loggerFqcn":"org.apache.logging.slf4j.Log4jLogger","threadId":32,"threadPriority":5}
+, {"instant":{"epochSecond":1755770754,"nanoOfSecond":817896600},"thread":"Thread-7","level":"INFO","loggerName":"org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec","message":"Recoverable I/O exception (org.apache.hc.core5.http.NoHttpResponseException) caught when processing request to {}->http://localhost:5671","endOfBatch":false,"loggerFqcn":"org.apache.logging.slf4j.Log4jLogger","threadId":60,"threadPriority":5}
+, {"instant":{"epochSecond":1755770754,"nanoOfSecond":818420100},"thread":"JavaFX Application Thread","level":"INFO","loggerName":"org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec","message":"Recoverable I/O exception (org.apache.hc.core5.http.NoHttpResponseException) caught when processing request to {}->http://localhost:5671","endOfBatch":false,"loggerFqcn":"org.apache.logging.slf4j.Log4jLogger","threadId":32,"threadPriority":5}
+
+]
+
+]
+
+]
+
+]
+
+]
+
+]
+
+]
+
+]
+
+]
+
+]
+
+]
+
+]
+
+]
+
+]
+
+]
+
+]
+
+]
+
+]
+
+]
+
+]
+
+]
+
+]
+
+]
+
+]
+
+]
+
+]
+
+]
+
+]
+
+]
